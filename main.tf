@@ -118,7 +118,6 @@
         - online-delay
 
   handlers:
-
     - name: "apache-restart"
       service:
         name: httpd
